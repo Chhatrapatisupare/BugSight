@@ -1,0 +1,16 @@
+summary,description,category
+Login button not working,Clicking login does nothing on Chrome,UI
+App crashes on startup,Crash after splash screen on Android 13,Backend
+Database connection timeout,Query takes too long to respond,Database
+SQL injection possible in search,Unsanitized input in search field,Security
+Page loads very slowly,Dashboard takes 12 seconds to load,Performance
+Button color mismatch,Submit button color not per design,UI
+API returns 500 error,Server error on POST request,Backend
+Foreign key constraint fails,Insert fails due to missing parent row,Database
+Password stored in plain text,Users table has unhashed passwords,Security
+Memory leak in loop,App memory grows over time,Performance
+Dropdown not opening,Select dropdown is unresponsive on Firefox,UI
+Null pointer exception,App throws NPE when user profile is empty,Backend
+Duplicate rows inserted,Transaction inserted same record twice,Database
+XSS vulnerability in comments,Script tags execute in comment section,Security
+Slow image loading,Images take 5s+ to render on dashboard,Performance
